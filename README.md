@@ -103,7 +103,106 @@ I’m a Full-Stack Developer focused on building real-world web applications, wi
 | **Databases**                 | MongoDB, Mongoose, MySQL, PostgreSQL                                                |
 | **Database Tools**            | MongoDB Atlas, MongoDB Compass                                                      |
 | **Storage & Media**           | Cloudinary, ImageKit, Firebase Storage                                              |
-| **Email & Communication**     |                                                                                     |
+| **Email & Communication**     | Nodemailer, SMTP                                                                    |
+| **Backend Services**          | Firebase                                                                            |
+| **API & Testing Tools**       | Postman                                                                             |
+| **Version Control**           | Git, GitHub                                                                         |
+| **Development Tools**         | VS Code, npm, Nodemon, dotenv                                                       |
 
+---
+
+## 🚀 Engineering Focus
+
+* REST API design and development
+* Authentication & Authorization
+* JWT and cookie-based authentication
+* Database modeling and relationships
+* MongoDB, SQL and database queries
+* Backend validation and security
+* API integration
+* File and image upload handling
+* Email services and SMTP
+* Clean and maintainable backend architecture
+* Performance and scalability fundamentals
+
+---
+
+## 📚 Currently Learning
+
+* Advanced Backend Development
+* Docker & Containerization
+* Redis & Caching
+* System Design
+* AWS & Cloud Deployment
+* CI/CD & DevOps
+
+---
+
+## 🔥 Selected Projects
+
+### 🎟️ Event Booking Platform
+
+A full-stack event booking application focused on backend architecture, authentication, event management, booking workflows and database operations.
+
+**Focus:** REST APIs • Authentication • Authorization • Database Design • Booking Logic
+
+### 🏦 Banking Application
+
+A backend-focused banking application designed around secure authentication, user accounts, transactions and database-driven business logic.
+
+**Focus:** Backend Architecture • Authentication • Transactions • Database Design • API Development
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=prithviraj85&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithviraj85&layout=compact&langs_count=8&hide_border=true" />
 </p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prithviraj85&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prithviraj85&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Activity Graph"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prithvi-raj85/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/prithviraj8538" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/000000" width="45" height="45" alt="X"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:prithviraj8538@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/prithviraj85" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/181717" width="45" height="45" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>LinkedIn</b> • <b>X</b> • <b>Email</b> • <b>GitHub</b>
+</p>
+
+---
+
+<p align="center">
+  <i>"Build things. Understand them. Improve them."</i>
+</p>
+
 
