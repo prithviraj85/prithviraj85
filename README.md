@@ -66,13 +66,12 @@ I’m a Full-Stack Developer focused on building real-world web applications, wi
 ### ☁️ Storage & Backend Services
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase" />
+  <img src="https://img.shields.io/badge/Firebase_Storage-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
   <img src="https://img.shields.io/badge/ImageKit-1B73E8?style=for-the-badge&logo=imagekit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase_Storage-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 ### 🔧 Tools & Development
@@ -98,7 +97,7 @@ I’m a Full-Stack Developer focused on building real-world web applications, wi
 | **Database Tools**            | MongoDB Atlas, MongoDB Compass                                                      |
 | **Storage & Media**           | Cloudinary, ImageKit, Firebase Storage                                              |
 | **Email & Communication**     | Nodemailer, SMTP                                                                    |
-| **Backend Services**          | Firebase                                                                            |
+| **Backend Services**          | Firebase Storage                                                                    |
 | **API & Testing Tools**       | Postman                                                                             |
 | **Version Control**           | Git, GitHub                                                                         |
 | **Development Tools**         | VS Code, npm, Nodemon, dotenv                                                       |
@@ -180,5 +179,4 @@ A backend-focused banking application designed around secure authentication, use
 <p align="center">
   <i>"Build things. Understand them. Improve them."</i>
 </p>
-
 
