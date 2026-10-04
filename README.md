@@ -117,6 +117,15 @@ I’m a Full-Stack Developer focused on building real-world web applications, wi
 * Clean and maintainable backend architecture
 * Performance and scalability fundamentals
 
+## 🔨 Currently Building
+
+* Full-Stack Web Applications
+* Frontend Projects with React
+* Backend APIs with Node.js & Express.js
+* Database-Driven Applications
+* Authentication & Authorization
+* Real-World Project Architecture
+
 ## 🔥 Selected Projects
 
 ### 🎟️ Event Booking Platform
@@ -171,7 +180,5 @@ A backend-focused banking application designed around secure authentication, use
 <p align="center">
   <i>"Build things. Understand them. Improve them."</i>
 </p>
-
-
 
 
