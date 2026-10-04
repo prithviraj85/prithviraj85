@@ -1,173 +1,145 @@
-<h1 align="center">Hi 👋, I'm Prithvi Raj</h1>
+# 👋 Hi, I'm Prithvi Raj
 
-<h3 align="center">Full-Stack Developer • Backend-Focused • Building Real-World Systems</h3>
+### Full-Stack Developer | Building Robust Backend Systems
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prithviraj85&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="prithviraj85" />
-  <img src="https://img.shields.io/github/followers/prithviraj85?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-blue?style=for-the-badge" />
-</p>
+I’m a Full-Stack Developer focused on building real-world web applications, with a growing specialization in **backend development, APIs, databases, authentication, and scalable application architecture**.
 
-<p align="center">
-  <a href="https://twitter.com/prithvi8538" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<p align="left">
+  <a href="https://github.com/prithviraj85">
+    <img src="https://img.shields.io/github/followers/prithviraj85?label=Followers&style=flat&logo=github" alt="GitHub Followers"/>
   </a>
-  <a href="https://linkedin.com/in/prithvi-raj85" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/prithvi-raj85/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:prithviraj8538@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/prithviraj85" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://twitter.com/prithvi8538">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=flat&logo=x&logoColor=white" alt="X"/>
   </a>
 </p>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech Student (2029) — building toward a career in Software Engineering
-- 💻 Full-Stack Developer with a growing focus on **Backend Engineering**
-- ⚡ I care about **clean, scalable, and maintainable code** — not just "it works"
-- 🧩 Strengthening **DSA** and problem-solving fundamentals alongside real projects
-- 🛠️ Currently building production-level full-stack applications
-- 📈 Consistently learning, shipping, and improving
-
-> *"I focus on building skills that translate directly into real-world software development."*
+* 💻 Full-Stack Developer with a strong interest in **backend engineering**
+* 🔧 Building applications using **JavaScript, React, Node.js, Express.js and databases**
+* 🏗️ Focused on **REST APIs, authentication, authorization, database design and backend architecture**
+* 🚀 Interested in building **scalable and production-oriented applications**
+* 🧠 I like understanding **how things work under the hood**
+* 📚 Currently deepening my knowledge of **advanced backend development**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,shadcn" />
 </p>
 
-**Backend**
+### Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-**Databases**
+### Databases & Data Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
 </p>
 
-**Tools & Platforms**
+### Development Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
-
-**Also working with:** `ShadCN UI` • `MongoDB Compass` • `REST APIs` • `JWT Auth`
 
 ---
 
-## 🌱 Currently Learning
+## ⚙️ Technical Skills
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-</p>
-
-- 🧱 Advanced Backend Architecture & System Design
-- 🔐 Authentication, Authorization & Security Best Practices
-- ⚡ Caching strategies with Redis
-- ☁️ Cloud Deployment & Scalable Application Design
+| Category             | Technologies                                     |
+| -------------------- | ------------------------------------------------ |
+| **Languages**        | JavaScript, HTML5, CSS3                          |
+| **Frontend**         | React, Redux, Tailwind CSS, Bootstrap, shadcn/ui |
+| **Backend**          | Node.js, Express.js                              |
+| **Databases**        | MongoDB, MySQL, PostgreSQL                       |
+| **Database Tools**   | MongoDB Compass                                  |
+| **Backend Services** | Firebase                                         |
+| **API Development**  | REST APIs, API Integration, Postman              |
+| **Authentication**   | JWT, Cookies, Authentication & Authorization     |
+| **Version Control**  | Git, GitHub                                      |
+| **Development**      | VS Code                                          |
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Engineering Focus
+
+* REST API design and development
+* Authentication & Authorization
+* JWT and cookie-based authentication
+* Database modeling and relationships
+* MongoDB, SQL and database queries
+* Backend validation and security
+* API integration
+* Clean and maintainable backend architecture
+* Performance and scalability fundamentals
+
+---
+
+## 📚 Currently Learning
+
+* Advanced Backend Development
+* Docker & Containerization
+* Redis & Caching
+* System Design
+* AWS & Cloud Deployment
+* CI/CD & DevOps
+
+---
+
+## 🔥 Selected Projects
 
 ### 🎟️ Event Booking Platform
-Full-stack application handling event management, bookings, and user workflows end-to-end.
 
-**Stack:** React • Node.js • Express • MongoDB
-**Focus:** Authentication • REST APIs • Database Design • Backend Architecture
+A full-stack event booking application focused on backend architecture, authentication, event management, booking workflows and database operations.
 
-[🔗 Repository](#) • [🌐 Live Demo](#)
-
----
+**Focus:** REST APIs • Authentication • Authorization • Database Design • Booking Logic
 
 ### 🏦 Banking Application
-Backend-driven project simulating real-world financial workflows with secure transactions.
 
-**Stack:** Node.js • Express • PostgreSQL • JWT
-**Focus:** Transactions • Security • Database Design • API Design
+A backend-focused banking application designed around secure authentication, user accounts, transactions and database-driven business logic.
 
-[🔗 Repository](#) • [🌐 Live Demo](#)
+**Focus:** Backend Architecture • Authentication • Transactions • Database Design • API Development
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prithviraj85&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithviraj85&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=prithviraj85&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithviraj85&layout=compact&langs_count=8&hide_border=true" />
 </p>
 
+### 🔥 Contribution Streak
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prithviraj85&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=prithviraj85&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prithviraj85&hide_border=true" alt="GitHub Contribution Activity Graph"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🌐 Connect With Me
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prithviraj85&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
-</p>
+<p align="left">
+  <a href="htt
 
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prithviraj85&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prithviraj85/prithviraj85/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-> ⚙️ **Activate the snake animation** by creating `.github/workflows/snake.yml` in your `prithviraj85` repo:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */24 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: prithviraj85
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
