@@ -1,92 +1,35 @@
 
-# Hi there, I'm [Your Name] 👋
+<h1 align="center">Hi 👋, I'm Prithvi raj</h1>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
-### 🚀 Full-Stack Developer | [Your University/Degree or "Recent Graduate"]
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prithviraj85&label=Profile%20views&color=0e75b6&style=flat" alt="prithviraj85" /> </p>
 
-I'm a passionate full-stack developer who loves building end-to-end web applications. I recently completed my full-stack development training, where I gained hands-on experience with modern frontend and backend technologies. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prithviraj85" alt="prithviraj85" /></a> </p>
 
----
+<p align="left"> <a href="https://twitter.com/prithvi8538" target="blank"><img src="https://img.shields.io/twitter/follow/prithvi8538?logo=twitter&style=for-the-badge" alt="prithvi8538" /></a> </p>
 
-## 🛠️ Tech Stack
+- 🌱 I’m currently learning **typescript,nextjs,docker Redis & Caching AWS & Cloud Deployment CI/CD**
 
-**Frontend:**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- 💬 Ask me about **mern stack**
 
-**Backend:**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+- 📫 How to reach me **prithviraj8538@gmail.com**
 
-**Tools & Others:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+- ⚡ Fun fact **I like understanding how things work under the hood**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/prithvi8538" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prithvi8538" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prithvi-raj85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prithvi-raj85" height="30" width="40" /></a>
+</p>
 
-## 📂 Featured Projects
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-### 🛒 [Project Name 1 - e.g., E-Commerce Store]
-A full-stack e-commerce application with user authentication, product management, and a shopping cart.
-- **Tech:** React, Node.js, Express, MongoDB
-- **Repo:** [Link to repo]
-- **Live:** [Link to live demo]
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prithviraj85&show_icons=true&locale=en&layout=compact" alt="prithviraj85" /></p>
 
-### 📝 [Project Name 2 - e.g., Task Manager App]
-A productivity app to create, edit, and delete tasks with a clean UI.
-- **Tech:** React, Firebase, Tailwind CSS
-- **Repo:** [Link to repo]
-- **Live:** [Link to live demo]
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prithviraj85&show_icons=true&locale=en" alt="prithviraj85" /></p>
 
-### 💬 [Project Name 3 - e.g., Real-Time Chat App]
-A real-time chat application using Socket.io.
-- **Tech:** Node.js, Express, Socket.io, MongoDB
-- **Repo:** [Link to repo]
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prithviraj85&" alt="prithviraj85" /></p>
 
----
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
----
-
-## 🌱 What I'm Currently Doing
-- 🔭 Building new full-stack projects to sharpen my skills.
-- 🌱 Learning **[Next.js / TypeScript / AWS / Docker]**.
-- 👯 Looking to collaborate on open-source projects.
-- 💬 Ask me about **JavaScript, React, Node.js, or anything full-stack**.
-
----
-
-## 📫 How to Reach Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-
----
-
-⭐️ From [Your Name](https://github.com/YOUR_GITHUB_USERNAME)
-<!--
-**prithviraj85/prithviraj85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
