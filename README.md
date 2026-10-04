@@ -21,28 +21,27 @@ I’m a Full-Stack Developer focused on building real-world web applications, wi
 ## 👨‍💻 About Me
 
 * 💻 Full-Stack Developer with a strong interest in **backend engineering**
-* 🔧 Building applications with modern **JavaScript-based technologies**
-* 🏗️ Focused on **REST APIs, authentication, authorization, databases and backend architecture**
+* 🔧 Building applications using **JavaScript, React, Node.js, Express.js and databases**
+* 🏗️ Focused on **REST APIs, authentication, authorization, database design and backend architecture**
 * 🚀 Interested in building **scalable and production-oriented applications**
 * 🧠 I like understanding **how things work under the hood**
+* 📚 Currently deepening my knowledge of **advanced backend development**
 
 ---
 
-# 🛠️ Skills & Technologies
-
-### 💻 Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css" />
-</p>
+## 🛠️ Tech Stack
 
 ### 🎨 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,redux,reactrouter,tailwind,bootstrap,shadcn" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap" />
 </p>
 
-**Also experienced with:** GSAP • Responsive UI • API Integration • Component-based UI
+<p align="left">
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+</p>
 
 ### ⚙️ Backend
 
@@ -50,18 +49,12 @@ I’m a Full-Stack Developer focused on building real-world web applications, wi
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-**Backend skills:** REST APIs • Middleware • Authentication • Authorization • JWT • Cookies • Validation • Error Handling • API Integration
-
-### 🔐 Authentication & Security
-
-* JWT Access & Refresh Tokens
-* Cookie-based Authentication
-* Authentication & Authorization
-* Password Hashing with bcrypt
-* Environment Variables & Secrets
-* Request Validation
-* Role-based Access Control
-* Basic CSRF / Security Concepts
+<p align="left">
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nodemailer-22B573?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/SMTP-4A5568?style=for-the-badge&logo=maildotru&logoColor=white" />
+</p>
 
 ### 🗄️ Databases
 
@@ -69,28 +62,23 @@ I’m a Full-Stack Developer focused on building real-world web applications, wi
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
-**MongoDB ecosystem:** MongoDB • Mongoose • MongoDB Atlas • MongoDB Compass
-
-**SQL:** MySQL • PostgreSQL • Database Design • Queries • Relationships
-
-### ☁️ Storage & Media
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,cloudinary" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB_Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-* Cloudinary
-* ImageKit
-* Firebase Storage
-* MongoDB Atlas
+### ☁️ Storage & Backend Services
 
-### 📧 Backend Services
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase" />
+</p>
 
-* Nodemailer
-* SMTP
-* Email-based workflows
-* File uploads with Multer
-* Image/file storage integration
+<p align="left">
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/ImageKit-1B73E8?style=for-the-badge&logo=imagekit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase_Storage-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 
 ### 🔧 Tools & Development
 
@@ -98,31 +86,45 @@ I’m a Full-Stack Developer focused on building real-world web applications, wi
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
 
-* Git & GitHub
-* VS Code
-* Postman
-* npm
-* Nodemon
-* dotenv
-* MongoDB Compass
+<p align="left">
+  <img src="https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=black" />
+</p>
 
 ---
 
-## 🎯 Engineering Focus
+## ⚙️ Technical Skills
 
-My current focus is on strengthening the backend side of full-stack development:
+| Category                      | Technologies                                                                        |
+| ----------------------------- | ----------------------------------------------------------------------------------- |
+| **Languages**                 | JavaScript, HTML5, CSS3                                                             |
+| **Frontend**                  | React, Redux, React Router, Tailwind CSS, Bootstrap, shadcn/ui, GSAP                |
+| **Backend**                   | Node.js, Express.js, REST APIs                                                      |
+| **Authentication & Security** | JWT, Access Tokens, Refresh Tokens, Cookies, bcrypt, Authentication & Authorization |
+| **Databases**                 | MongoDB, Mongoose, MySQL, PostgreSQL                                                |
+| **Database Tools**            | MongoDB Atlas, MongoDB Compass                                                      |
+| **Storage & Media**           | Cloudinary, ImageKit, Firebase Storage                                              |
+| **Email & Communication**     | Nodemailer, SMTP                                                                    |
+| **Backend Services**          | Firebase                                                                            |
+| **API & Testing Tools**       | Postman                                                                             |
+| **Version Control**           | Git, GitHub                                                                         |
+| **Development Tools**         | VS Code, npm, Nodemon, dotenv                                                       |
 
-* REST API architecture
+---
+
+## 🚀 Engineering Focus
+
+* REST API design and development
 * Authentication & Authorization
-* JWT & secure cookie workflows
-* Database modeling and optimization
-* MongoDB & SQL databases
-* File and image upload systems
-* Email services and SMTP
+* JWT and cookie-based authentication
+* Database modeling and relationships
+* MongoDB, SQL and database queries
 * Backend validation and security
-* Caching & performance fundamentals
-* Scalable backend architecture
-* Deployment and production workflows
+* API integration
+* File and image upload handling
+* Email services and SMTP
+* Clean and maintainable backend architecture
+* Performance and scalability fundamentals
 
 ---
 
@@ -137,7 +139,7 @@ My current focus is on strengthening the backend side of full-stack development:
 
 ---
 
-## 🚀 Selected Projects
+## 🔥 Selected Projects
 
 ### 🎟️ Event Booking Platform
 
@@ -174,24 +176,28 @@ A backend-focused banking application designed around secure authentication, use
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/prithvi-raj85/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" height="42" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/prithviraj8538" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/000000" width="42" height="42" alt="X"/>
+    <img src="https://cdn.simpleicons.org/x/000000" width="45" height="45" alt="X"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:prithviraj8538@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" alt="Email"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" alt="Email"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/prithviraj85" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/181717" width="42" height="42" alt="GitHub"/>
+    <img src="https://cdn.simpleicons.org/github/181717" width="45" height="45" alt="GitHub"/>
   </a>
+</p>
+
+<p align="center">
+  <b>LinkedIn</b> • <b>X</b> • <b>Email</b> • <b>GitHub</b>
 </p>
 
 ---
@@ -200,5 +206,3 @@ A backend-focused banking application designed around secure authentication, use
   <i>"Build things. Understand them. Improve them."</i>
 </p>
 
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
