@@ -16,8 +16,6 @@ I’m a Full-Stack Developer focused on building real-world web applications, wi
   </a>
 </p>
 
----
-
 ## 👨‍💻 About Me
 
 * 💻 Full-Stack Developer with a strong interest in **backend engineering**
@@ -26,8 +24,6 @@ I’m a Full-Stack Developer focused on building real-world web applications, wi
 * 🚀 Interested in building **scalable and production-oriented applications**
 * 🧠 I like understanding **how things work under the hood**
 * 📚 Currently deepening my knowledge of **advanced backend development**
-
----
 
 ## 🛠️ Tech Stack
 
@@ -90,8 +86,6 @@ I’m a Full-Stack Developer focused on building real-world web applications, wi
   <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=black" />
 </p>
 
----
-
 ## ⚙️ Technical Skills
 
 | Category                      | Technologies                                                                        |
@@ -109,8 +103,6 @@ I’m a Full-Stack Developer focused on building real-world web applications, wi
 | **Version Control**           | Git, GitHub                                                                         |
 | **Development Tools**         | VS Code, npm, Nodemon, dotenv                                                       |
 
----
-
 ## 🚀 Engineering Focus
 
 * REST API design and development
@@ -124,19 +116,6 @@ I’m a Full-Stack Developer focused on building real-world web applications, wi
 * Email services and SMTP
 * Clean and maintainable backend architecture
 * Performance and scalability fundamentals
-
----
-
-## 📚 Currently Learning
-
-* Advanced Backend Development
-* Docker & Containerization
-* Redis & Caching
-* System Design
-* AWS & Cloud Deployment
-* CI/CD & DevOps
-
----
 
 ## 🔥 Selected Projects
 
@@ -152,8 +131,6 @@ A backend-focused banking application designed around secure authentication, use
 
 **Focus:** Backend Architecture • Authentication • Transactions • Database Design • API Development
 
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -166,14 +143,6 @@ A backend-focused banking application designed around secure authentication, use
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=prithviraj85&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
-
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prithviraj85&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Activity Graph"/>
-</p>
-
----
 
 ## 🤝 Connect With Me
 
@@ -199,10 +168,10 @@ A backend-focused banking application designed around secure authentication, use
   <b>LinkedIn</b> • <b>X</b> • <b>Email</b> • <b>GitHub</b>
 </p>
 
----
-
 <p align="center">
   <i>"Build things. Understand them. Improve them."</i>
 </p>
+
+
 
 
