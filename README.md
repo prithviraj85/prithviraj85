@@ -1,35 +1,112 @@
+# 👋 Hey, I'm Prithvi Raj
 
-<h1 align="center">Hi 👋, I'm Prithvi raj</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+### Full-Stack Developer | Building Robust Backend Systems
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prithviraj85&label=Profile%20views&color=0e75b6&style=flat" alt="prithviraj85" /> </p>
+I'm a B.Tech student and Full-Stack Developer focused on building real-world web applications and strengthening my backend engineering skills.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prithviraj85" alt="prithviraj85" /></a> </p>
+I enjoy turning ideas into working products, understanding how systems work under the hood, and continuously improving through hands-on projects.
 
-<p align="left"> <a href="https://twitter.com/prithvi8538" target="blank"><img src="https://img.shields.io/twitter/follow/prithvi8538?logo=twitter&style=for-the-badge" alt="prithvi8538" /></a> </p>
+---
 
-- 🌱 I’m currently learning **typescript,nextjs,docker Redis & Caching AWS & Cloud Deployment CI/CD**
+## 🚀 About Me
 
-- 💬 Ask me about **mern stack**
+- 💻 Full-Stack Developer with a growing focus on Backend Engineering
+- 🌱 Currently diving deeper into advanced backend development
+- 🛠️ Building real-world projects to strengthen my development skills
+- 🧠 Interested in scalable systems, APIs, databases, and software architecture
+- 🎯 Preparing myself for Software Development internships and opportunities
+- 📚 Always learning, building, and improving
 
-- 📫 How to reach me **prithviraj8538@gmail.com**
+---
 
-- ⚡ Fun fact **I like understanding how things work under the hood**
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/prithvi8538" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prithvi8538" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prithvi-raj85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prithvi-raj85" height="30" width="40" /></a>
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prithviraj85&show_icons=true&locale=en&layout=compact" alt="prithviraj85" /></p>
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prithviraj85&show_icons=true&locale=en" alt="prithviraj85" /></p>
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prithviraj85&" alt="prithviraj85" /></p>
+---
 
+## 🌱 Currently Learning
+
+- Advanced Backend Development
+- Docker & Containerization
+- Redis & Caching
+- System Design
+- AWS & Cloud Deployment
+- CI/CD & DevOps
+
+> Learning by building, not just watching tutorials.
+
+---
+
+## 🔨 What I'm Building
+
+I'm currently focused on building practical full-stack and backend projects that help me understand:
+
+- REST APIs
+- Authentication & Authorization
+- Database Design
+- Backend Architecture
+- Security
+- Caching
+- Deployment
+- Scalable Application Design
+
+---
+
+## 📌 Featured Projects
+
+### 🎟️ Event Booking Platform
+A full-stack application focused on event management and booking workflows.
+
+**Focus:** Authentication • REST APIs • Database • Backend Architecture
+
+---
+
+### 🏦 Banking Application
+A backend-focused project designed to understand real-world financial application workflows.
+
+**Focus:** Authentication • Transactions • Security • Database Design
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prithviraj85&show_icons=true&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithviraj85&layout=compact&theme=transparent" height="165"/>
+</p>
+
+---
+
+## 📈 My Development Journey
+
+```text
+Frontend
+   ↓
+Full-Stack Development
+   ↓
+Backend Engineering
+   ↓
+Advanced Backend
+   ↓
+System Design & Cloud
 - ⚡ Fun fact: ...
 -->
