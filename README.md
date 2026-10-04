@@ -11,7 +11,7 @@ I’m a Full-Stack Developer focused on building real-world web applications, wi
   <a href="https://www.linkedin.com/in/prithvi-raj85/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/prithvi8538">
+  <a href="https://twitter.com/prithviraj8538">
     <img src="https://img.shields.io/badge/X-Follow-000000?style=flat&logo=x&logoColor=white" alt="X"/>
   </a>
 </p>
@@ -21,70 +21,108 @@ I’m a Full-Stack Developer focused on building real-world web applications, wi
 ## 👨‍💻 About Me
 
 * 💻 Full-Stack Developer with a strong interest in **backend engineering**
-* 🔧 Building applications using **JavaScript, React, Node.js, Express.js and databases**
-* 🏗️ Focused on **REST APIs, authentication, authorization, database design and backend architecture**
+* 🔧 Building applications with modern **JavaScript-based technologies**
+* 🏗️ Focused on **REST APIs, authentication, authorization, databases and backend architecture**
 * 🚀 Interested in building **scalable and production-oriented applications**
 * 🧠 I like understanding **how things work under the hood**
-* 📚 Currently deepening my knowledge of **advanced backend development**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Skills & Technologies
 
-### Frontend
+### 💻 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,shadcn" />
+  <img src="https://skillicons.dev/icons?i=js,html,css" />
 </p>
 
-### Backend
+### 🎨 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,redux,reactrouter,tailwind,bootstrap,shadcn" />
+</p>
+
+**Also experienced with:** GSAP • Responsive UI • API Integration • Component-based UI
+
+### ⚙️ Backend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Databases & Data Tools
+**Backend skills:** REST APIs • Middleware • Authentication • Authorization • JWT • Cookies • Validation • Error Handling • API Integration
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
-</p>
+### 🔐 Authentication & Security
 
-### Development Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
-
-## ⚙️ Technical Skills
-
-| Category             | Technologies                                     |
-| -------------------- | ------------------------------------------------ |
-| **Languages**        | JavaScript, HTML5, CSS3                          |
-| **Frontend**         | React, Redux, Tailwind CSS, Bootstrap, shadcn/ui |
-| **Backend**          | Node.js, Express.js                              |
-| **Databases**        | MongoDB, MySQL, PostgreSQL                       |
-| **Database Tools**   | MongoDB Compass                                  |
-| **Backend Services** | Firebase                                         |
-| **API Development**  | REST APIs, API Integration, Postman              |
-| **Authentication**   | JWT, Cookies, Authentication & Authorization     |
-| **Version Control**  | Git, GitHub                                      |
-| **Development**      | VS Code                                          |
-
----
-
-## 🚀 Engineering Focus
-
-* REST API design and development
+* JWT Access & Refresh Tokens
+* Cookie-based Authentication
 * Authentication & Authorization
-* JWT and cookie-based authentication
-* Database modeling and relationships
-* MongoDB, SQL and database queries
+* Password Hashing with bcrypt
+* Environment Variables & Secrets
+* Request Validation
+* Role-based Access Control
+* Basic CSRF / Security Concepts
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+**MongoDB ecosystem:** MongoDB • Mongoose • MongoDB Atlas • MongoDB Compass
+
+**SQL:** MySQL • PostgreSQL • Database Design • Queries • Relationships
+
+### ☁️ Storage & Media
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,cloudinary" />
+</p>
+
+* Cloudinary
+* ImageKit
+* Firebase Storage
+* MongoDB Atlas
+
+### 📧 Backend Services
+
+* Nodemailer
+* SMTP
+* Email-based workflows
+* File uploads with Multer
+* Image/file storage integration
+
+### 🔧 Tools & Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+</p>
+
+* Git & GitHub
+* VS Code
+* Postman
+* npm
+* Nodemon
+* dotenv
+* MongoDB Compass
+
+---
+
+## 🎯 Engineering Focus
+
+My current focus is on strengthening the backend side of full-stack development:
+
+* REST API architecture
+* Authentication & Authorization
+* JWT & secure cookie workflows
+* Database modeling and optimization
+* MongoDB & SQL databases
+* File and image upload systems
+* Email services and SMTP
 * Backend validation and security
-* API integration
-* Clean and maintainable backend architecture
-* Performance and scalability fundamentals
+* Caching & performance fundamentals
+* Scalable backend architecture
+* Deployment and production workflows
 
 ---
 
@@ -99,7 +137,7 @@ I’m a Full-Stack Developer focused on building real-world web applications, wi
 
 ---
 
-## 🔥 Selected Projects
+## 🚀 Selected Projects
 
 ### 🎟️ Event Booking Platform
 
@@ -139,7 +177,28 @@ A backend-focused banking application designed around secure authentication, use
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="htt
+  <a href="https://www.linkedin.com/in/prithvi-raj85/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" height="42" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/prithviraj8538" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/000000" width="42" height="42" alt="X"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:prithviraj8538@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/prithviraj85" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/181717" width="42" height="42" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Build things. Understand them. Improve them."</i>
+</p>
 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
